@@ -14,6 +14,9 @@ class App extends Component {
         >
           Linkedin
         </a>
+        <a className="blog-link" href="https://buzzjs.blogspot.com/" target="_blank" rel="noopener noreferrer">
+          My Blog
+        </a>
       </div>
     );
   }

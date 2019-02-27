@@ -10,6 +10,9 @@
   color: white;
 }
 
-.linkedin-link {
+.linkedin-link,
+.blog-link {
   color: #61dafb;
+  text-decoration: none;
+  margin-bottom: 40px;
 }
