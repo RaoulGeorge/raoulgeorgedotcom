@@ -1,0 +1,19 @@
+.contact {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+  .linkedin-link,
+  .blog-link,
+  .github-link {
+    color: #61dafb;
+    text-decoration: none;
+    margin-bottom: 40px;
+    padding: 20px;
+  }
+}

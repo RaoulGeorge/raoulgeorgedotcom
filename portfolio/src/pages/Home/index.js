@@ -1,23 +1,13 @@
 import React from 'react';
+import Intro from './../../components/Intro';
+import Contact from './../../components/Contact';
 import './home.scss';
 
 const Home = () => {
   return (
-    <div class="home">
-      <a
-        className="linkedin-link"
-        href="https://www.linkedin.com/in/raoulgeorge"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Linkedin
-      </a>
-      <a className="blog-link" href="https://buzzjs.blogspot.com/" target="_blank" rel="noopener noreferrer">
-        My Blog
-      </a>
-      <a className="github-link" href="https://github.com/RaoulGeorge" target="_blank" rel="noopener noreferrer">
-        Github
-      </a>
+    <div className="home">
+      <Intro />
+      <Contact />
     </div>
   );
 };
