@@ -17,6 +17,9 @@ class App extends Component {
         <a className="blog-link" href="https://buzzjs.blogspot.com/" target="_blank" rel="noopener noreferrer">
           My Blog
         </a>
+        <a className="github-link" href="https://github.com/RaoulGeorge" target="_blank" rel="noopener noreferrer">
+          Github
+        </a>
       </div>
     );
   }

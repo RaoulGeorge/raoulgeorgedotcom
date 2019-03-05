@@ -11,7 +11,8 @@
 }
 
 .linkedin-link,
-.blog-link {
+.blog-link,
+.github-link {
   color: #61dafb;
   text-decoration: none;
   margin-bottom: 40px;
