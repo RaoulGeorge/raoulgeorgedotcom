@@ -13,10 +13,13 @@ const Contact = () => {
         Linkedin
       </a>
       <a className="blog-link" href="https://buzzjs.blogspot.com/" target="_blank" rel="noopener noreferrer">
-        My Blog
+        Blog
       </a>
       <a className="github-link" href="https://github.com/RaoulGeorge" target="_blank" rel="noopener noreferrer">
         Github
+      </a>
+      <a className="twitter-link" href="https://twitter.com/raoulgeorge" target="_blank" rel="noopener noreferrer">
+        Twitter
       </a>
     </div>
   );

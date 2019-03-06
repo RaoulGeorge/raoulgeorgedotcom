@@ -4,6 +4,7 @@ import './intro.scss';
 const Intro = () => {
   return (
     <div className="intro">
+      <h2>Hello world</h2>
       <h2>My name is Raoul George</h2>
       <div className="iama">
         <div className="static">
@@ -14,7 +15,7 @@ const Intro = () => {
             <h2>web developer</h2>
           </li>
           <li className="effect-item">
-            <h2>proud father</h2>
+            <h2>family man</h2>
           </li>
           <li className="effect-item">
             <h2>warcraft addict</h2>
